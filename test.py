@@ -9,5 +9,4 @@ data = {
 
 df = pd.DataFrame(data)
 
-
 df.to_excel('Tolovlar.xlsx', index=False)
